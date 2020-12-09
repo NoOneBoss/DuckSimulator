@@ -1,0 +1,10 @@
+C:\Users\andre\source\repos\DuckSimulator\DuckSimulator\bin\Debug\DuckSimulator.exe.config
+C:\Users\andre\source\repos\DuckSimulator\DuckSimulator\bin\Debug\DuckSimulator.exe
+C:\Users\andre\source\repos\DuckSimulator\DuckSimulator\bin\Debug\DuckSimulator.pdb
+C:\Users\andre\source\repos\DuckSimulator\DuckSimulator\obj\Debug\DuckSimulator.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\DuckSimulator\DuckSimulator\obj\Debug\DuckSimulator.Form1.resources
+C:\Users\andre\source\repos\DuckSimulator\DuckSimulator\obj\Debug\DuckSimulator.Properties.Resources.resources
+C:\Users\andre\source\repos\DuckSimulator\DuckSimulator\obj\Debug\DuckSimulator.csproj.GenerateResource.cache
+C:\Users\andre\source\repos\DuckSimulator\DuckSimulator\obj\Debug\DuckSimulator.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\DuckSimulator\DuckSimulator\obj\Debug\DuckSimulator.exe
+C:\Users\andre\source\repos\DuckSimulator\DuckSimulator\obj\Debug\DuckSimulator.pdb
